@@ -1,1 +1,1 @@
-This is an example of transformer.
+This is an example of an translator based on transformer. Welcome to rise issues and have discussion.
